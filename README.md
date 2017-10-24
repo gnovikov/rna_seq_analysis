@@ -48,3 +48,6 @@ An example of the automated notebook can be found [here](http://nbviewer.jupyter
 # Reanalysis of existing RNA-seq datasets deposited to GEO
 
 An example of jupyter notebook with full reanalysis for the GEO dataset 44461 can be found [here](http://nbviewer.jupyter.org/github/gnovikov/rna_seq_analysis/blob/master/GSE44461_GPL11154_v1.ipynb)
+
+An example of jupyter notebook with full reanalysis for the GEO dataset 86956 can be found [here](https://nbviewer.jupyter.org/github/gnovikov/rna_seq_analysis/blob/0bf2d373bd93d3606bac334ef3d0ef22d64c0f35/GSE86956_GPL16791_v7.ipynb)
+
