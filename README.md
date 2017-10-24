@@ -33,7 +33,7 @@ You can only provide one set of control and one set of experimental samples; how
 
 * Open the generate_notebook.ipynb and run the cell by clicking Cells and Run Cells. (Notice that the filename provided is "sample_data.xlsx". You can edit the existing excel file or create a new file with the desired datasets information. You will need to change the filename in the script if using a new file).
 
-* The generated notebooks should appear in the current directory. The notebook are named in the following manner: Automated_Notebook_GSEnumber_platform.ipynb
+* The generated notebooks should appear in the current directory. The notebooks are named in the following manner: Automated_Notebook_GSEnumber_platform.ipynb
 
 * If some of the widgets do not show up, click Cells and Run All to reload the cells.
 
