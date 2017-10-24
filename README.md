@@ -42,4 +42,7 @@ You can only provide one set of control and one set of experimental samples; how
 
 ### Automated Notebook Example
 
-An example of the automated notebook can be found [here]().
+An example of the automated notebook can be found [here](http://nbviewer.jupyter.org/github/gnovikov/rna_seq_analysis/blob/master/Automated_Notebook_GSE44461_GPL11154.ipynb).
+
+
+# Reanalysis of existing RNA-seq datasets deposited to GEO
