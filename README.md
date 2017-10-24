@@ -27,7 +27,7 @@ You can only provide one set of control and one set of experimental samples; how
 
 [Running Docker](https://docs.docker.com/engine/reference/commandline/run/)
 
-* If you want to data to persist while using Docker, the folder on the local machine can be mounted to the docker container.
+* If you want the data to persist while using Docker, the folder on the local machine can be mounted to the docker container.
 
 [Mounting Volumes with Docker](https://docs.docker.com/engine/admin/volumes/volumes/#create-and-manage-volumes)
 
