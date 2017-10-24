@@ -1,6 +1,6 @@
 # Automated Notebook Project
 
-The script automatically generates jupyter notebook using the GEO dataset information provided.
+The script automatically generates jupyter notebooks using the GEO dataset information provided.
 
 ### Prerequisites
 
