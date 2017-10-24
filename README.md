@@ -8,7 +8,7 @@ The script and the jupyter notebook are running on a Docker container. You can l
 
 [Installing Docker](https://docs.docker.com/engine/installation/)
 
-The necessary scripts are provided in folders scripts and gloriiascripts.
+The necessary scripts are provided in folders scripts and gloriascripts.
 
 ### Excel file format
 
